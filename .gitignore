@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+Win32/
+out/
+
+# Intermediate files
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.idb
+*.tlog/
+*.lastbuildstate
